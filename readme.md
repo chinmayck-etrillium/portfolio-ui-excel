@@ -36,26 +36,44 @@ A simple and powerful **Investment Tracking Dashboard** built with Google Sheets
 
 4. **Dashboard shows**:
 
-   - Current value
-   - Total investment
+   - Current account value
+   - Positions
+   - Days change
    - Unrealized P&L
-   - Performance trends
+   - Realized P&L
+   - Cash
+   - Portfolio stats
+   - Stock performance trends
+   - Selected stock stats
 
-5. Breakdown visualizes:
+5. **Breakdown visualizes**:
 
-   - Asset classes
-   - Sectoral exposure (if mapped)
    - Weight by holding
 
-6. Stock Quote Viewer:
+6. **Stock Quote Viewer**:
    - Select a ticker from the dropdown
    - View a 12-month price trend chart
+   - See stock stats
 
 ---
 
 ## 📸 Screenshots
 
-**Add screenshots here once added to the repo**: - dashboard.png - transaction-details.png - holdings.png - breakdown.png
+**Add screenshots here once added to the repo**:
+
+![Dashboard](dashboard.png)
+
+---
+
+![Transaction Detail](transaction-details.png)
+
+---
+
+![Holdings](holdings.png)
+
+---
+
+![Breakdown](breakdown.png)
 
 ---
 
@@ -68,7 +86,7 @@ A simple and powerful **Investment Tracking Dashboard** built with Google Sheets
 
 ## 📥 Getting Started
 
-1. [Click here] (https://docs.google.com/spreadsheets/d/1d5WRcExNcmhvfHwlu1YfPb19l5CZJMjF_VsZkLDhEwg/edit?usp=sharing) to make a copy of the template
+1. [Click here](https://docs.google.com/spreadsheets/d/1d5WRcExNcmhvfHwlu1YfPb19l5CZJMjF_VsZkLDhEwg/edit?usp=sharing) to make a copy of the template
 
 2. Go to `File > Make` a copy to edit and use your own version
 
@@ -78,9 +96,9 @@ A simple and powerful **Investment Tracking Dashboard** built with Google Sheets
 
 ## 🙋‍♂️ Author
 
-**Created by [Chinmay C K]**
-📫 [chinmayck24@gmail.com]
-🌐 [chinmayck] (www.linkedin.com/in/chinmayck/)
+**Created by Chinmay C K**
+📫 chinmayck24@gmail.com
+🌐 [chinmayck](www.linkedin.com/in/chinmayck/)
 
 ---
 
